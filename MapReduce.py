@@ -1,6 +1,5 @@
 #Cancemi Damiano
-
-#RUN:                      "python MapReduce.py test_set_tweets.txt"
+#RUN: "python MapReduce.py test_set_tweets.txt"
 
 from mrjob.job import MRJob
 latitude = []
