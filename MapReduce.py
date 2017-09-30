@@ -1,6 +1,5 @@
-#Cancemi Damiano - W82000075
+#Cancemi Damiano
 
-#PER INSTALLARE gmplot:    "/Users/damianocancemi/anaconda/bin/pip install gmplot"
 #RUN:                      "python MapReduce.py test_set_tweets.txt"
 
 from mrjob.job import MRJob
