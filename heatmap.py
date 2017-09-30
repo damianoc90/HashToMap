@@ -1,5 +1,5 @@
 #Cancemi Damiano
-#RUN:                      "python heatmap.py"
+#RUN: "python heatmap.py"
 
 import gmplot
 
