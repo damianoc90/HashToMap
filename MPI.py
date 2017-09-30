@@ -1,6 +1,4 @@
-# Cancemi Damiano - W82000075
-
-# PER INSTALLARE mpi4py:    "/Users/damianocancemi/anaconda/bin/pip install mpi4py"
+# Cancemi Damiano
 # RUN:                      "mpiexec -n 4 python MPI.py"
 
 from mpi4py import MPI
