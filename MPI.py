@@ -1,5 +1,5 @@
 # Cancemi Damiano
-# RUN:                      "mpiexec -n 4 python MPI.py"
+# RUN: "mpiexec -n 4 python MPI.py"
 
 from mpi4py import MPI
 from math import radians, cos, sin, asin, sqrt
